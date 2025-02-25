@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1740121124 source:c:\users\anats\onedrive\desktop\compro\lab21\tutorial1\main.cpp
+	<tchar.h>
+	<windows.h>
+
